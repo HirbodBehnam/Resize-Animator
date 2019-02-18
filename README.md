@@ -18,7 +18,7 @@ ResizeAnimator.ConsoleApplication.BufferResize(300,300);
 ResizeAnimator.ConsoleApplication.WindowResizer(80,35);
   ```
   
-  **Warning:**Using ```ResizeAnimator.ConsoleApplication.WindowResizer``` may throw an Argument Out Of Range Exception.
+  **Warning:** Using ```ResizeAnimator.ConsoleApplication.WindowResizer``` may throw an Argument Out Of Range Exception.
   
 ### Compatibility
 - VB.Net and C#.Net
